@@ -1,0 +1,3 @@
+Pedido - ID: 1 | Nome: arroz | Qtd: 2 | Total: R$ 24.00
+Pedido - ID: 1 | Nome: arroz | Qtd: 2 | Total: R$ 24.00
+Pedido - ID: 1 | Nome: arroz | Qtd: 2 | Total: R$ 24.00

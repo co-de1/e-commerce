@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1749002055 source:/home/jose/projeto_final/main.c
+	<stdio.h>
+	<stdlib.h>
+	"crud.h"
+	"pedidos.h"
+	"atendimento.h"
+
+1748923202 /home/jose/projeto_final/crud.h
+
+1748900926 /home/jose/projeto_final/crud.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1748923189 source:/home/jose/projeto_final/crud.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1748997290 source:/home/jose/projeto_final/pedidos.c
+	<stdio.h>
+	<stdlib.h>
+	"pedidos.h"
+
+1748996527 /home/jose/projeto_final/pedidos.h
+
+1748998764 source:/home/jose/projeto_final/atendimento.c
+	<stdio.h>
+	<stdlib.h>
+	"atendimento.h"
+
+1748998804 /home/jose/projeto_final/atendimento.h
+
